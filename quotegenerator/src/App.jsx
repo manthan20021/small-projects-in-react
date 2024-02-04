@@ -18,7 +18,7 @@ function App() {
       setAuthor(data.author)
     })
     .then(Error => {
-      setErr(Error, "something went wrong please tray aegean")
+      setErr(Error, " HOO!... something went wrong please tray aegean ")
     })
 
   }
