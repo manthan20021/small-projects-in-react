@@ -42,7 +42,7 @@ const sharebtn = () => {
 </p>
 <h5 className='mt-5 '>author :- {author}</h5>
 
-<button className='bg-orange-500 text-white font-bold w-20 h-10 rounded-lg mt-5 mb-5' onClick={cot}>genret</button>
+<button className='bg-orange-500 text-white font-bold w-20 h-10 rounded-lg mt-5 mb-5' onClick={cot}>generate</button>
 
 </div>
     </div>
